@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Nafish Iqbal</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
@@ -57,14 +55,13 @@
 ---
 
 # 🧭 DevOps Roadmap (My Learning Path)
-
 ✔ Following the real industry DevOps path  
 ✔ Building projects for each topic  
 ✔ Automation-first mindset  
 
 ---
 
-# 📦 Featured DevOps Projects (Add your repos later)
+# 📦 Featured DevOps Projects
 - 🔧 **GitHub Actions CI/CD Pipeline**  
 - 🐳 **Dockerized Full-Stack Application**  
 - ☁️ **Deploying a Web App on AWS EC2 with Load Balancer**  
@@ -76,19 +73,19 @@
 
 ## 📊 GitHub Stats & Activity
 
-![Nafish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafishiqbal12&show_icons=true&theme=tokyonight)
+![Nafish Stats](https://github-readme-stats.vercel.app/api?username=nafishiqbal12&show_icons=true&theme=tokyonight&cache_seconds=7200)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nafishiqbal12&theme=tokyonight)
+![Nafish Streak](https://streak-stats.demolab.com?user=nafishiqbal12&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal12&theme=radical&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal12&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
 # 👁‍🗨 Profile Views
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nafishiqbal12&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=nafishiqbal12&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -99,5 +96,3 @@
 ---
 
 # ⭐ If you like my work, consider giving my repos a star!
-
-
