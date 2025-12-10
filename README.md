@@ -79,8 +79,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal278&theme=onedark)
----
+![Trophies](https://gith
 
 # 👁‍🗨 Profile Views
 <p align="left">
