@@ -73,13 +73,14 @@
 
 ## 📊 GitHub Stats & Activity
 
-![Nafish Stats](https://github-readme-stats.vercel.app/api?username=nafishiqbal12&show_icons=true&theme=tokyonight&cache_seconds=7200)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nafishiqbal278&show_icons=true&theme=tokyonight)
 
 ![Nafish Streak](https://streak-stats.demolab.com?user=nafishiqbal12&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal12&theme=radical&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal278&theme=onedark)
+
 
 ---
 
