@@ -79,7 +79,9 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://gith
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal278&theme=tokyonight)
 
 # 👁‍🗨 Profile Views
 <p align="left">
