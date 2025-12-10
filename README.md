@@ -16,7 +16,7 @@
 - 🐧 Comfortable with **Linux systems, Bash, Docker, Kubernetes, AWS, Azure**  
 - 🛠 Currently working on **CI/CD pipelines + Containerization + Cloud projects**  
 - 💡 Open to **collaboration** on DevOps or cloud engineering projects  
-- 📫 Reach Me: **nafishiqbal12@gmail.com**  
+- 📫 Reach Me: **nafishiqbal278@gmail.com**  
 - ⚡ Fun Fact: *Automation is my superpower ⚡*
 
 ---
