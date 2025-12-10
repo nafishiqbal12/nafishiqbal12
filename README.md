@@ -77,7 +77,6 @@
 
 ![Nafish Streak](https://streak-stats.demolab.com?user=nafishiqbal278&theme=tokyonight&hide_border=false)
 
-## 🏆 GitHub Trophies
 
 ## 🏆 GitHub Trophies
 
