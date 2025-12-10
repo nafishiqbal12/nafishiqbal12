@@ -74,18 +74,14 @@
 
 ---
 
-# 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafishiqbal12&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafishiqbal12&theme=tokyonight" height="180px"/>
-</p>
+## 📊 GitHub Stats & Activity
 
----
+![Nafish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafishiqbal12&show_icons=true&theme=tokyonight)
 
-# 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nafishiqbal12&theme=dracula&row=1&column=6"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=nafishiqbal12&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal12&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
