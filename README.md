@@ -70,7 +70,15 @@
 - 🏗️ **IaC with Terraform (AWS Provider)**
 
 ---
+## 📊 GitHub Stats & Activity
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nafishiqbal12&show_icons=true&theme=tokyonight)
+
+![Nafish Streak](https://streak-stats.demolab.com?user=nafishiqbal12&theme=tokyonight&hide_border=false)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal12&theme=tokyonight)
 
 ---
 
