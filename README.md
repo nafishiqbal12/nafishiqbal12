@@ -70,7 +70,6 @@
 - 🏗️ **IaC with Terraform (AWS Provider)**
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nafishiqbal12&show_icons=true&theme=tokyonight)
