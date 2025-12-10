@@ -67,20 +67,21 @@
 - ☁️ **Deploying a Web App on AWS EC2 with Load Balancer**  
 - 🎛 **Kubernetes Deployment + Service + Ingress**  
 - ⚙️ **Jenkins Automated Build Pipeline**  
-- 🏗️ **IaC with Terraform (AWS Provider)**  
+- 🏗️ **IaC with Terraform (AWS Provider)**
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nafishiqbal278&show_icons=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nafishiqbal12&show_icons=true&theme=tokyonight)
 
-![Nafish Streak](https://streak-stats.demolab.com?user=nafishiqbal278&theme=tokyonight&hide_border=false)
-
+![Nafish Streak](https://streak-stats.demolab.com?user=nafishiqbal12&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal278&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal12&theme=tokyonight)
+
+---
 
 # 👁‍🗨 Profile Views
 <p align="left">
