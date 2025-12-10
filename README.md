@@ -81,12 +81,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nafishiqbal12&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nafishiqbal12&theme=radical&no-frame=true&margin-w=10)
-
----
-
-# 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nafishiqbal12&theme=react-dark)
 
 ---
 
