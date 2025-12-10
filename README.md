@@ -1,5 +1,4 @@
-<!-- Banner -->
-<img align="center" src="https://i.imgur.com/JO7nX6l.png"/>
+
 
 <h1 align="center">Hi 👋, I'm Nafish Iqbal</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
@@ -58,4 +57,55 @@
 ---
 
 # 🧭 DevOps Roadmap (My Learning Path)
+
+✔ Following the real industry DevOps path  
+✔ Building projects for each topic  
+✔ Automation-first mindset  
+
+---
+
+# 📦 Featured DevOps Projects (Add your repos later)
+- 🔧 **GitHub Actions CI/CD Pipeline**  
+- 🐳 **Dockerized Full-Stack Application**  
+- ☁️ **Deploying a Web App on AWS EC2 with Load Balancer**  
+- 🎛 **Kubernetes Deployment + Service + Ingress**  
+- ⚙️ **Jenkins Automated Build Pipeline**  
+- 🏗️ **IaC with Terraform (AWS Provider)**  
+
+---
+
+# 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafishiqbal12&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafishiqbal12&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nafishiqbal12&theme=dracula&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nafishiqbal12&theme=react-dark)
+
+---
+
+# 👁‍🗨 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nafishiqbal12&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
+
+---
+
+# 💬 Quote
+📌 *"A good DevOps engineer automates everything — even the things others think cannot be automated."*
+
+---
+
+# ⭐ If you like my work, consider giving my repos a star!
+
 
